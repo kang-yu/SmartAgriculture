@@ -40,13 +40,13 @@ paginate = 6
 [languages]
   [languages.en]
     title = "Smart Ag"
-    weight = 1
+    weight = 6
     [languages.en.params]
       linkedin = "https://linkedin.com/whoever"
   
   [languages.cn]
     title = "Smart Ag"
-    weight = 2
+    weight = 6
     [languages.cn.params]
       linkedin = "https://linkedin.com/fr/whoever"
       
@@ -76,7 +76,6 @@ paginate = 6
             weight = 6
 
 [params]
-    DefaultContentLanguageInSubdir = true
     description = "A website built through Hugo and blogdown."
     summary_length = 300
     github_edit = "https://github.com/yihui/hugo-xmag/edit/master/exampleSite/content/"
