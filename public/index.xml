@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo XMag</title>
+    <title>Smart Agriculture</title>
     <link>/</link>
-    <description>Recent content on Hugo XMag</description>
+    <description>Recent content on Smart Agriculture</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Tue, 14 Feb 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -63,6 +62,17 @@ Quisque mattis volutpat lorem vitae feugiat.</description>
     </item>
     
     <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015/07/23/hello-r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015/07/23/hello-r-markdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
       <title>Jeff Leek always obtains unbiased estimators</title>
       <link>/post/2015/07/24/jeff-leek-always-obtains-unbiased-estimators/</link>
       <pubDate>Fri, 24 Jul 2015 00:00:00 +0000</pubDate>
@@ -83,16 +93,12 @@ Quisque mattis volutpat lorem vitae feugiat.</description>
     </item>
     
     <item>
-      <title>About Hugo XMag</title>
+      <title>Smart Agriculture Seminars - Enlightening the future of agriculture</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>XMag is the second Hugo theme I have designed. It is based on my first Hugo theme XMin, and similarly, features minimalism but with a magazine style on the homepage inspired by The Signpost on Wikipedia. You can find its source code on Github: https://github.com/yihui/hugo-xmag (licensed under MIT).
-Features This theme includes a few cool features:
- Responsive article summary blocks on homepage
- Thumbnails in summary blocks
- Magazine title in Blackletter (&amp;Bfr;&amp;Lfr;&amp;Afr;&amp;Cfr;&amp;Kfr; &amp;Lfr;&amp;Efr;&amp;Tfr;&amp;Tfr;&amp;Efr;&amp;Rfr;)</description>
+      <description>Smart Agriculture &amp;amp; Interdisciplinary Crop Science Seminars Features 目的 聚焦作物学及相关学科研究前沿，畅想未来农业的愿景，探讨作物学研究的机遇与挑战。交叉融合、突破创新，抓住互联网、人工智能、</description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-languageCode = "zh-cn"
+DefaultContentLanguage = "en"
 
 theme = "hugo-xmag"
 googleAnalytics = ""
@@ -17,37 +17,65 @@ paginate = 6
     weight = 1
     [languages.en.params]
       linkedin = "https://linkedin.com/whoever"
-  [languages.cn]
+      
+      [permalinks]
+        post = "/post/:year/:month/:day/:slug/"
     
+        [[menu.main]]
+            name = "Home"
+            url = "/"
+            weight = 1
+        [[menu.main]]
+            name = "About"
+            url = "/about/"
+            weight = 2
+        [[menu.main]]
+            name = "Categories"
+            url = "/categories/"
+            weight = 3
+        [[menu.main]]
+            name = "Tags"
+            url = "/tags/"
+            weight = 4
+        [[menu.main]]
+            name = "Subscribe"
+            url = "/index.xml"
+            weight = 5
+        [[menu.main]]
+            name = "中文"
+            url = "/cn/"
+            weight = 6
+  
+  [languages.cn]
     title = "智慧农业"
     weight = 2
     [languages.cn.params]
       linkedin = "https://linkedin.com/fr/whoever"
-      [languages.cn.params.navigation]
-        About = "关于"
-
-[permalinks]
-    post = "/post/:year/:month/:day/:slug/"
-
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-[[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 3
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 4
-[[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
+      
+       [[languages.cn.menu.main]]
+            name = "主页"
+            url = "/"
+            weight = 1
+        [[languages.cn.menu.main]]
+            name = "关于"
+            url = "/about/"
+            weight = 2
+        [[languages.cn.menu.main]]
+            name = "类别"
+            url = "/categories/"
+            weight = 3
+        [[languages.cn.menu.main]]
+            name = "标签"
+            url = "/tags/"
+            weight = 4
+        [[languages.cn.menu.main]]
+            name = "订阅"
+            url = "/index.xml"
+            weight = 5
+        [[languages.cn.menu.main]]
+            name = "English"
+            url = "/"
+            weight = 6
 
 [params]
     description = "A website built through Hugo and blogdown."
