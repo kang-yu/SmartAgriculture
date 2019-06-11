@@ -1,6 +1,8 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Smart Agriculture"
+
+
 theme = "hugo-xmag"
 googleAnalytics = ""
 disqusShortname = ""
@@ -10,6 +12,21 @@ footnotereturnlinkcontents = "↩"
 hasCJKLanguage = true
 enableEmoji = true
 paginate = 6
+
+
+[languages]
+  [languages.en]
+    title = "My blog"
+    weight = 1
+    [languages.en.params]
+      linkedin = "https://linkedin.com/whoever"
+  [languages.cn]
+    title = "智慧农业"
+    weight = 2
+    [languages.fr.params]
+      linkedin = "https://linkedin.com/fr/whoever"
+      [languages.fr.params.navigation]
+        help = "Aide"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
