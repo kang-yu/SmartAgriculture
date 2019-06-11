@@ -18,7 +18,7 @@ paginate = 6
     [languages.en.params]
       linkedin = "https://linkedin.com/whoever"
   [languages.cn]
-    baseurl = "/cn"
+    
     title = "智慧农业"
     weight = 2
     [languages.cn.params]
