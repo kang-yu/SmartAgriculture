@@ -1,9 +1,10 @@
 ---
-title: 'Smart Agriculture Seminars' - Enlightening the future of agriculture
+title: 'Smart Agriculture Seminars - Enlightening the future of agriculture'
 author: CAU-CAB-SAS
 ---
 
-**Smart Agriculture & Interdisciplinary Crop Science Seminars**.
+
+**Smart Agriculture & Interdisciplinary Crop Science Seminars**
 
 # Features
 
