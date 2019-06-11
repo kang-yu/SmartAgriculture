@@ -12,7 +12,7 @@ paginate = 6
 
 [languages]
   [languages.en]
-    title = "Smart Agriculture"
+    title = "Smart Ag"
     weight = 1
     [languages.en.params]
       linkedin = "https://linkedin.com/whoever"
@@ -46,7 +46,7 @@ paginate = 6
             weight = 6
   
   [languages.cn]
-    title = "《智慧农业》报告"
+    title = "Smart Ag"
     weight = 2
     [languages.cn.params]
       linkedin = "https://linkedin.com/fr/whoever"
