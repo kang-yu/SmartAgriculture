@@ -1,5 +1,4 @@
 DefaultContentLanguage = "en"
-
 theme = "hugo-xmag"
 googleAnalytics = ""
 disqusShortname = ""
@@ -47,7 +46,7 @@ paginate = 6
             weight = 6
   
   [languages.cn]
-    title = "智慧农业"
+    title = "《智慧农业》报告"
     weight = 2
     [languages.cn.params]
       linkedin = "https://linkedin.com/fr/whoever"
@@ -78,6 +77,7 @@ paginate = 6
             weight = 6
 
 [params]
+    date_format = "Mon, Jan 2, 2006"
     description = "A website built through Hugo and blogdown."
     summary_length = 300
     github_edit = "https://github.com/yihui/hugo-xmag/edit/master/exampleSite/content/"

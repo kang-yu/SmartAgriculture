@@ -3,6 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/cn/post/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/cn/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="/cn/"
+                />
+  </url>
+  
+  <url>
+    <loc>/cn/post/2019/06/11/%E6%99%BA%E6%85%A7%E5%86%9C%E4%B8%9A%E4%B8%8E%E4%BA%A4%E5%8F%89%E4%BD%9C%E7%89%A9%E5%AD%A6-%E6%8A%A5%E5%91%8A%E6%B5%8B%E8%AF%95%E9%A1%B5/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/cn/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -43,21 +80,6 @@
                 rel="alternate"
                 hreflang="cn"
                 href="/cn/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/cn/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="/cn/"
                 />
   </url>
   
