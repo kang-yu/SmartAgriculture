@@ -24,7 +24,7 @@ paginate = 6
     [languages.cn.params]
       linkedin = "https://linkedin.com/fr/whoever"
       [languages.cn.params.navigation]
-        about = "关于"
+        About = "关于"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
