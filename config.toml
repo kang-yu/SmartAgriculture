@@ -1,4 +1,3 @@
-baseurl = "/"
 languageCode = "en-us"
 
 theme = "hugo-xmag"
@@ -19,6 +18,7 @@ paginate = 6
     [languages.en.params]
       linkedin = "https://linkedin.com/whoever"
   [languages.cn]
+    baseurl = "/cn"
     title = "智慧农业"
     weight = 2
     [languages.cn.params]
@@ -53,7 +53,7 @@ paginate = 6
     description = "A website built through Hugo and blogdown."
     summary_length = 300
     github_edit = "https://github.com/yihui/hugo-xmag/edit/master/exampleSite/content/"
-    footer = "&copy; [CAU-CAB](https://cab.cau.edu.cn) 2019 | [Github](https://github.com/) | [Twitter](https://twitter.com/)"
+    footer = "&copy; [CAU-CAB](https://cab.cau.edu.cn) 2019 | [Github](https://github.com/)"
 
 [params.text]
     back = "&larr; Back to Home"
