@@ -5,10 +5,19 @@
     <link>/post/</link>
     <description>Recent content in Posts on Smart Ag</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 14 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>&#34;Smart Ag Seminar&#34; En Post Test</title>
+      <link>/post/2019/06/11/smart-ag-seminar-en-post-test/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/06/11/smart-ag-seminar-en-post-test/</guid>
+      <description>Smart Agriculture &amp;amp; Interdisciplinary Crop Science Seminar Slogan: Enlightening the future of agriculture 主办：中国农业大学 农学院 作物生理与栽培研究中心 目的 聚焦作物学及相关学科研究前沿，畅想未来农业的愿景，探讨作物学研究</description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>
