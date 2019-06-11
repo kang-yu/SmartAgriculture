@@ -1,7 +1,5 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Smart Agriculture"
-
 
 theme = "hugo-xmag"
 googleAnalytics = ""
@@ -16,16 +14,16 @@ paginate = 6
 
 [languages]
   [languages.en]
-    title = "My blog"
+    title = "Smart Agriculture"
     weight = 1
     [languages.en.params]
       linkedin = "https://linkedin.com/whoever"
   [languages.cn]
     title = "智慧农业"
     weight = 2
-    [languages.fr.params]
+    [languages.cn.params]
       linkedin = "https://linkedin.com/fr/whoever"
-      [languages.fr.params.navigation]
+      [languages.cn.params.navigation]
         help = "Aide"
 
 [permalinks]
