@@ -1,3 +1,3 @@
 ---
-title: Smart Agriculture
+title: Smart Agriculture Seminar
 ---
